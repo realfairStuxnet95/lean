@@ -16,7 +16,7 @@
 
 
           <li class="nav-item ">
-              <a class="btn btn-primary mt-3 mx-2 animated slideInUp" href="courses">All Courses</a>
+              <a class="btn btn-primary mt-3 mx-2  animated slideInUp" href="courses">All Courses</a>
               
           </li>
 

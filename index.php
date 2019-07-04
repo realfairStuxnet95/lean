@@ -127,7 +127,7 @@ require 'const.php';
                   <div class="col-md-6 mt-4">
                     <h2>
                       <small class="d-block text-gray">Welcome to</small>
-                       <span class="text-primary">Topupgrade</span> platform
+                       <span class="text-primary">HealthEdu</span> platform
                     </h2>
                     <p class="my-4">
                         HealthEdu Ltd is a Company created with the support of Health Volunteers Overseas (HVO) – 

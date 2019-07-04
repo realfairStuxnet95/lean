@@ -426,7 +426,7 @@ define("USER_TYPE", $_SESSION['user_type']);
         
           <div class="footer-bottom bg-black-0_9 py-5 text-center">
             <div class="container">
-              <p class="text-white-0_5 mb-0">&copy; 2019 topupgrade ltd. All rights reserved. designed by <a href="https://sagesalvio.000webhostapp.com" target="_blunk">DIA Lab</a></p>
+              <p class="text-white-0_5 mb-0">&copy; 2019  Healthedu ltd. All rights reserved. designed by <a href="https://sagesalvio.000webhostapp.com" target="_blunk">DIA Lab</a></p>
             </div>
           </div>  <!-- END footer-bottom-->
         </footer> <!-- END site-footer -->

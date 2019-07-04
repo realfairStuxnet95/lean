@@ -71,7 +71,7 @@
 
   <div class="footer-bottom bg-black-0_9 py-5 text-center">
     <div class="container">
-      <p class="text-white-0_5 mb-0">&copy; <?php echo date('Y'); ?> topupgrade ltd. All rights reserved. designed by <a href="https://sagesalvio.000webhostapp.com" target="_blunk">DIA Lab</a></p>
+      <p class="text-white-0_5 mb-0">&copy; <?php echo date('Y'); ?>2 Healthedu ltd. All rights reserved. designed by <a href="" target="_blunk">DIA Lab</a></p>
     </div>
   </div>  <!-- END footer-bottom-->
 </footer>
