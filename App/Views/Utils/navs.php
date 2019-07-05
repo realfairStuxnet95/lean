@@ -16,7 +16,7 @@
 
 
           <li class="nav-item ">
-              <a class="btn btn-primary mt-3 mx-2  animated slideInUp" href="courses">All Courses</a>
+              <a class="btn btn-primary mt-3 mx-2  " href="courses">All Courses</a>
               
           </li>
 
@@ -34,10 +34,10 @@
          </li>
        
          <li class="nav-item  ">
-            <a href="login" class=" btn  mt-3 mx-2 animated slideInUp ">login</a>
+            <a href="login" class=" btn  mt-3 mx-2  ">login</a>
           </li>
           <li class="nav-item ">
-              <a href="register" class=" btn btn-primary mt-3 mx-2 animated slideInUp">Get Started</a>
+              <a href="register" class=" btn btn-primary mt-3 mx-2 ">Get Started</a>
             </li>
             <li class="nav-item">
                 <a class=" btn  mt-3 mx-2  slideInUp site-search-toggler" href="#">

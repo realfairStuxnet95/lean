@@ -73,7 +73,7 @@ if(USER_TYPE==2){
 
 
         <li class="nav-item ">
-          <a href="courses" class=" btn btn-primary mt-3 mx-2 animated slideInUp">All Courses</a>
+          <a href="courses" class=" btn btn-primary mt-3 mx-2 ">All Courses</a>
         </li>
 
           <li class="nav-item ">

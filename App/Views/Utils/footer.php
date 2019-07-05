@@ -43,8 +43,8 @@
             <li class="mb-2"><a href="about">About Us</a></li>
             <li class="mb-2"><a href="contact">Contact Us</a></li>
             <li class="mb-2"><a href="faq">Faq</a></li>
-            <li class="mb-2"><a href="privacy-policy">privacy policy</a></li>
-            <li class="mb-2"><a href="all-courses">All Courses</a></li>
+            <li class="mb-2"><a href="privacy">privacy policy</a></li>
+            <li class="mb-2"><a href="courses">All Courses</a></li>
             
           </ul>
         </div>
