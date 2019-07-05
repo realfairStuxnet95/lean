@@ -97,9 +97,9 @@
       <span class="ec-checkbox__control mt-1"></span>
       <span class="ec-checkbox__lebel">
         By signing up, you agree to our 
-        <a href="privacy-policy.html" class="text-primary">Terms of Use</a>
+        <a href="privacy" class="text-primary">Terms of Use</a>
          and
-        <a href="privacy-policy.html" class="text-primary">Privacy Policy.</a>
+        <a href="privacy" class="text-primary">Privacy Policy.</a>
       </span>
     </label>
   </div>
